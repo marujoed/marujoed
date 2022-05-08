@@ -1,4 +1,4 @@
-## Olá, eu sou o Ed Araujo, Editor de vídeos e criador de conteúdo; <br>
+## Olá, eu sou o Ed Araujo, Editor de vídeos e criador de conteúdo;
 atualmente estou estudando web development e estou em css intermediário!
 
 <div align="center">
