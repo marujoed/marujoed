@@ -1,4 +1,4 @@
-## Olá, eu sou o Ed Araujo, Editor de vídeos e criador de conteúdo; atualmente estou estudando web development e estou em css intermediário!
+## Olá, eu sou o Ed Araujo, Editor de vídeos e criador de conteúdo; atualmente estou estudando web development e estou aprendendo Javascript.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
